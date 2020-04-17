@@ -1,0 +1,47 @@
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail {
+	padding: 0;
+}
+
+.caption-full {
+	padding: 9px;
+}
+
+.delete-form {
+	display: inline;
+}
+
+
+.btn-lg {
+	width: 100%;
+} 
+
+#trademark {
+	margin-bottom: 0;
+}
+
+.navbar {
+	padding: .5rem .1rem;
+}
+
+.navbar-brand {
+	font-size: 30px;
+	font-family: 'Pacifico', cursive;
+}
+
+.navbar-nav {
+	font-size: 20px;
+}
+
+header h1 {
+	font-family: 'PT Serif', serif;
+}
+
+
+
+body {
+	font-family: 'Quicksand', sans-serif;
+}
